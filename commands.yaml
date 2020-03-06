@@ -10,6 +10,6 @@ info:
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
 sourceBasePath: https://raw.githubusercontent.com/JamieDawson/commander_helloworld_py/master/src
 commands:
-  AdminNames:
+  helloWorld:
     sourcePath: /echo.py
     description: Displays a Hello World message
