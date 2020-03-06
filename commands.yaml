@@ -8,8 +8,8 @@ info:
   license:
     name: 'Apache 2.0'
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
-sourceBasePath: https://raw.githubusercontent.com/JamieDawson/helloWorld_nim_py/master/src
+sourceBasePath: https://raw.githubusercontent.com/JamieDawson/commander_helloworld_py/master/src
 commands:
   AdminNames:
-    sourcePath: /echo.js
+    sourcePath: /echo.py
     description: Displays a Hello World message
