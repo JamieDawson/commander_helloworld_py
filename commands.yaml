@@ -1,0 +1,15 @@
+OpenCSI: 1
+info:
+  description: "A Hello World example in python for Nimbella Commander"
+  # version: "1.0.0"
+  title: helloworld
+  termsOfService: 'https://nimbella.com/terms'
+  contact: demo@nimbella.com
+  license:
+    name: 'Apache 2.0'
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+sourceBasePath: https://raw.githubusercontent.com/JamieDawson/helloWorld_nim_py/master/src
+commands:
+  AdminNames:
+    sourcePath: /echo.js
+    description: Displays a Hello World message
